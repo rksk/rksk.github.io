@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
-[Associate Technical Lead](https://wso2.com/about/team/sajith-ekanayaka) at [WSO2 Inc](https://wso2.com), specializing in the [Identity and Access Management](https://wso2.com/identity-and-access-management) domain.
+[Associate Technical Lead](https://wso2.com/about/team/sajith-ekanayaka) at [WSO2 Inc](https://wso2.com), specializing in the [Identity and Access Management](https://wso2.com/identity-and-access-management) domain
 
 Former [Seeds for the Future](https://www.huawei.com/minisite/seeds-for-the-future/index.html) Trainee at [Huawei Technologies](https://www.huawei.com/), Shenzhen, China
 
