@@ -8,7 +8,8 @@ Former Software Engineering Intern at [IFS](https://www.ifsworld.com/), Colombo
 
 Graduated from [University of Ruhuna, Sri Lanka](http://www.ruh.ac.lk/) in Bachelor of Computer Science (Hons) with a First Class Honours
 
-
+<hr>
+Find me on: 
 <a target="_blank" href="https://www.linkedin.com/in/sajithekanayaka/"><i class="fa fa-linkedin"></i></a>
 <a target="_blank" href="https://medium.com/@sajithekanayaka"><i class="fa fa-medium"></i></a>
 <a target="_blank" href="https://github.com/rksk"><i class="fa fa-github"></i></a>
