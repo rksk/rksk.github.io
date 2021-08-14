@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Sajith Ekanayaka
 
 Associate Technical Lead at WSO2 Inc.
