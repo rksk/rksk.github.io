@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## Sajith Ekanayaka
-
 Associate Technical Lead at WSO2 Inc.
 
 Former Seeds for the Future Trainee at Huawei Technologies, Shenzhen, China
