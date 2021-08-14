@@ -1,12 +1,12 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
-Associate Technical Lead at WSO2 Inc.
+[Associate Technical Lead](https://wso2.com/about/team/sajith-ekanayaka) at [WSO2 Inc](https://wso2.com).
 
-Former Seeds for the Future Trainee at Huawei Technologies, Shenzhen, China
+Former [Seeds for the Future](https://www.huawei.com/minisite/seeds-for-the-future/index.html) Trainee at [Huawei Technologies](https://www.huawei.com/), Shenzhen, China
 
-Former Software Engineering Intern at IFS, Colombo
+Former Software Engineering Intern at [IFS](https://www.ifsworld.com/), Colombo
 
-Graduated from University of Ruhuna, Sri Lanka in Bachelor of Computer Science (Hons) with a First Class Honours
+Graduated from [University of Ruhuna, Sri Lanka](http://www.ruh.ac.lk/) in Bachelor of Computer Science (Hons) with a First Class Honours
 
 
 <ul class="footer-share">
