@@ -9,13 +9,11 @@ Former Software Engineering Intern at [IFS](https://www.ifsworld.com/), Colombo
 Graduated from [University of Ruhuna, Sri Lanka](http://www.ruh.ac.lk/) in Bachelor of Computer Science (Hons) with a First Class Honours
 
 
-<ul class="footer-share">
-  <li><a target="_blank" href="https://www.linkedin.com/in/sajithekanayaka/"><i class="fa fa-linkedin"></i></a></li>
-  <li><a target="_blank" href="https://medium.com/@sajithekanayaka"><i class="fa fa-medium"></i></a></li>
-  <li><a target="_blank" href="https://github.com/rksk"><i class="fa fa-github"></i></a></li>
-  <li><a target="_blank" href="https://stackoverflow.com/users/2910841/sajith"><i class="fa fa-stack-overflow"></i></a></li>
-  <li><a target="_blank" href="https://twitter.com/SajithEka"><i class="fa fa-twitter"></i></a></li>
-</ul>
+<a target="_blank" href="https://www.linkedin.com/in/sajithekanayaka/"><i class="fa fa-linkedin"></i></a>
+<a target="_blank" href="https://medium.com/@sajithekanayaka"><i class="fa fa-medium"></i></a>
+<a target="_blank" href="https://github.com/rksk"><i class="fa fa-github"></i></a>
+<a target="_blank" href="https://stackoverflow.com/users/2910841/sajith"><i class="fa fa-stack-overflow"></i></a>
+<a target="_blank" href="https://twitter.com/SajithEka"><i class="fa fa-twitter"></i></a>
 
 
 <script src="https://code.jquery.com/jquery-1.4.2.min.js"></script>
