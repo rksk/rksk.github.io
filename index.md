@@ -1,6 +1,4 @@
----
-layout: default
----
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
 Associate Technical Lead at WSO2 Inc.
 
@@ -9,6 +7,16 @@ Former Seeds for the Future Trainee at Huawei Technologies, Shenzhen, China
 Former Software Engineering Intern at IFS, Colombo
 
 Graduated from University of Ruhuna, Sri Lanka in Bachelor of Computer Science (Hons) with a First Class Honours
+
+
+<ul class="footer-share">
+  <li><a target="_blank" href="https://www.linkedin.com/in/sajithekanayaka/"><i class="fa fa-linkedin"></i></a></li>
+  <li><a target="_blank" href="https://medium.com/@sajithekanayaka"><i class="fa fa-medium"></i></a></li>
+  <li><a target="_blank" href="https://github.com/rksk"><i class="fa fa-github"></i></a></li>
+  <li><a target="_blank" href="https://stackoverflow.com/users/2910841/sajith"><i class="fa fa-stack-overflow"></i></a></li>
+  <li><a target="_blank" href="https://twitter.com/SajithEka"><i class="fa fa-twitter"></i></a></li>
+</ul>
+
 
 <script src="https://code.jquery.com/jquery-1.4.2.min.js"></script>
 <script>$(document).ready(function(){  (document.getElementById("footer_wrap").getElementsByClassName("inner"))[0].innerHTML = "<p>© 2021 All rights reserved.</p>";  });</script>
