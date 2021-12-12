@@ -8,6 +8,8 @@ Former [Seeds for the Future](https://www.huawei.com/minisite/seeds-for-the-futu
 
 Former Software Engineering Intern at [IFS](https://www.ifsworld.com/), Colombo
 
+Completed [Master of Information Security](https://ucsc.cmb.ac.lk/mis/) offered by [University of Colombo School of Computing](https://ucsc.cmb.ac.lk/)
+
 Graduated from [University of Ruhuna, Sri Lanka](http://www.ruh.ac.lk/) in Bachelor of Computer Science (Hons) with a First Class Honours
 
 <hr>
