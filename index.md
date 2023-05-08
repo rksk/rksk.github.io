@@ -22,4 +22,4 @@ Find me on:
 
 
 <script src="https://code.jquery.com/jquery-1.4.2.min.js"></script>
-<script>$(document).ready(function(){  (document.getElementById("footer_wrap").getElementsByClassName("inner"))[0].innerHTML = "<p>© 2021 All rights reserved.</p>";  });</script>
+<script>$(document).ready(function(){  (document.getElementById("footer_wrap").getElementsByClassName("inner"))[0].innerHTML = "<p>© " + new Date().getFullYear() + " All rights reserved.</p>";  });</script>
